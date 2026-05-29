@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvync",
+        "uuid": 612575,
+        "checksum": "ez68a"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
